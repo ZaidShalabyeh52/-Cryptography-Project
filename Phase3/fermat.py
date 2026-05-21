@@ -143,6 +143,8 @@ def test_number(n, k):
     print(f"Execution Time: {execution_time:.6f} seconds")
 
 
+
+
 # -------------------------------------------------------------
 # MAIN PROGRAM
 #
@@ -153,6 +155,10 @@ def test_number(n, k):
 #   3. 104723   -> Known prime
 #   4. 104725   -> Composite number
 #
+# NOTE:
+#
+#
+# Therefore 104725 is used instead.
 # -------------------------------------------------------------
 if __name__ == "__main__":
 
